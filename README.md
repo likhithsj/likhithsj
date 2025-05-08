@@ -60,7 +60,7 @@ I'm a detail-oriented software engineer with nearly **3 years of professional ex
 
 ### Florida State University (FSU), FL  
 **Master of Science in Computer Science**  
-*Aug 2023 – May 2025 | GPA: 3.89/4.0*  
+*Aug 2023 – May 2025 | GPA: 3.9/4.0*  
 **Relevant Coursework**: Advanced Operating Systems, Cloud Computing, Networking, AI, Data Science
 
 ### Sri Venkateswara University, India  
