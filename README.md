@@ -21,7 +21,7 @@ I'm a detail-oriented software engineer with nearly **3 years of professional ex
 ## 💼 Work Experience
 
 ### 🖥️ System Engineer — Tata Consultancy Services  
-**Apr 2021 – Aug 2023 | Bangalore, India**
+**Nov 2020 – Aug 2023 | Bangalore, India**
 
 - 💡 Developed enterprise-grade full-stack modules with `Angular`, `ReactJS`, `.NET Core`, and `C#`, significantly improving performance and codebase modularity.
 - 🧰 Created REST APIs using **Clean Architecture**, reducing latency by 15% and boosting throughput by 20%.
