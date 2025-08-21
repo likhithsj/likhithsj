@@ -1,82 +1,94 @@
-# 👨‍💻 Likhith Serkad Jayakumar
-
-🔧 Full-Stack Developer | ☁️ Cloud Enthusiast | 🧠 System Design Learner  
-🎓 Master’s in Computer Science @ Florida State University  
-📍 Tallahassee, FL | 🌐 [LinkedIn](https://linkedin.com/in/likhith-s-j-0629a4175) | 📧 likhithsj@gmail.com
+<h1 align="center">Hi 👋, I'm Likhith Serkad Jayakumar</h1>
+<h3 align="center">Full Stack Software Engineer | Founding Engineer Mindset | AI & Cloud Enthusiast</h3>
 
 ---
 
-## 🔥 Technical Summary
-
-I'm a detail-oriented software engineer with nearly **3 years of professional experience** developing, deploying, and scaling full-stack applications and microservices. My core strengths lie in:
-
-- 🚀 **Building scalable web apps** using `Angular`, `React`, `.NET`, `C#`, and `JavaScript`.
-- ☁️ **Cloud-native development** on `AWS` and `GCP`, including serverless systems and real-time data pipelines.
-- 🔁 **DevOps & CI/CD automation** using `GitHub Actions`, `Docker`, `Kubernetes`, `Terraform`, and `Octopus`.
-- 🧱 **Clean code & architecture** using `CQRS`, `REST`, `RxJS`, and `TDD`.
-- 🧮 Passionate about `System Design`, `DSA`, and solving real-world problems.
+### 🚀 About Me
+- 🎓 Pursuing **Master's in Computer Science @ Florida State University (2023–2025)** | GPA: 3.9/4.0  
+- 👨‍💻 **3+ years of experience** building scalable full-stack applications & microservices  
+- 🛠 Skilled in **.NET, Java, Spring Boot, Go, Rust, React, Angular, Node.js**  
+- ☁️ Strong expertise in **AWS & Azure Cloud, Docker, Kubernetes, CI/CD pipelines**  
+- 🔬 Passionate about **Generative AI, System Design, and Distributed Systems**  
+- 🚀 Thrive in fast-paced, high-growth environments and bring a **founding engineer mindset** to every project  
 
 ---
 
-## 💼 Work Experience
-
-### 🖥️ System Engineer — Tata Consultancy Services  
-**Nov 2020 – Aug 2023 | Bangalore, India**
-
-- 💡 Developed enterprise-grade full-stack modules with `Angular`, `ReactJS`, `.NET Core`, and `C#`, significantly improving performance and codebase modularity.
-- 🧰 Created REST APIs using **Clean Architecture**, reducing latency by 15% and boosting throughput by 20%.
-- 🔄 Automated deployments via `TeamCity`, `Octopus`, and `GitHub Actions`, resulting in faster, error-free releases.
-- 🧠 Implemented `RxJS`, `NgRx`, and `CQRS` in state management and backend services, enhancing scalability and resilience.
-- 👥 Collaborated cross-functionally in Agile teams and mentored junior developers on modern coding practices and DevOps tools.
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/likhithsj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="mailto:likhithsj@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="40" width="40"/></a>&nbsp;&nbsp;
+<a href="https://github.com/likhithsj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40"/></a>
+</p>
 
 ---
 
-## 🧠 Key Skills
-
-### 💻 Languages & Frameworks
-`C#` `Python` `Java` `C++` `JavaScript` `TypeScript` `SQL`  
-`.NET` `ASP.NET Core` `Angular` `React` `Node.js` `Spring Boot`
-
-### ☁️ Cloud & Infrastructure
-`AWS` `GCP` `Terraform` `Docker` `Kubernetes` `Cloud SQL` `DynamoDB` `Firestore`
-
-### 🔧 DevOps & Tools
-`GitHub Actions` `TeamCity` `Octopus` `Jenkins` `Postman` `Splunk` `JIRA` `CI/CD Pipelines`
-
-### 🧪 Testing & Design
-`TDD` `Unit Testing` `NUnit` `Jasmine` `Karma` `System Design` `Clean Architecture` `Microservices`
+### 💻 Languages
+<p align="left"> 
+<a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 🛠 Projects Highlights
-
-- **Distributed Task Scheduler** – Built a Kafka- and Redis-based task engine with retry logic and fault tolerance.
-- **Serverless URL Shortener (AWS)** – Created a high-traffic short link platform using `Lambda`, `API Gateway`, and `DynamoDB`.
-- **Stock Market Analyzer** – Used `LSTM` models in `TensorFlow` to predict trends using real-time Yahoo Finance API data.
-
----
-
-## 🎓 Education
-
-### Florida State University (FSU), FL  
-**Master of Science in Computer Science**  
-*Aug 2023 – May 2025 | GPA: 3.9/4.0*  
-**Relevant Coursework**: Advanced Operating Systems, Cloud Computing, Networking, AI, Data Science
-
-### Sri Venkateswara University, India  
-**Bachelor of Technology in ECE** — *2016 – 2020*
+### 🎨 Frontend
+<p align="left">
+<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 📜 Certifications
-
-- ✅ **Google Cloud Architect** *(2024)*  
-- ✅ **GitHub Career Essentials** *(2025)*  
-- ✅ **Docker Essentials** *(2025)*  
-- ✅ **Agile Project Management (Atlassian)** *(2025)*  
-- ✅ **Microsoft Career Essentials in Software Development**
+### ⚙️ Backend
+<p align="left">
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+</p>
 
 ---
 
-📌 *I’m actively seeking opportunities to apply my software engineering and cloud expertise in impactful projects. Let’s connect!*
+### 🗄️ Databases
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/></a>
+</p>
 
+---
+
+### ☁️ Cloud & DevOps
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🎓 Certifications
+- ✅ Google Cloud Architect *(2024)*  
+- ✅ GitHub Career Essentials *(2025)*  
+- ✅ Docker Essentials *(2025)*  
+- ✅ Agile Project Management – Atlassian *(2025)*  
+- ✅ Microsoft Career Essentials in Software Development  
+
+---
+
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithsj&layout=compact&theme=radical" alt="most used languages" />
+</p>
